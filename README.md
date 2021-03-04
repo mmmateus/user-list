@@ -14,6 +14,7 @@ Lista de Usuários desenvolvida em ReactTS, em conjunto com a biblioteca Google 
 - Dark Mode
 - Styled Components
 - Informações de contato dos usuários onToggle
+- Design de Interface com Figma (https://www.figma.com/file/5p5mISPK9dlK3VLxSOO5lH/User-List-Material-Design-Google?node-id=0%3A1)
 
 
 ## Available Scripts
