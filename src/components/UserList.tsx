@@ -195,6 +195,7 @@ class UserList extends React.Component<{}> {
 
 const ContentContainer = styled.main`
   height: 100%;
+  min-height: inherit;
   display: flex;
   flex-direction: column;
   align-items: center;
